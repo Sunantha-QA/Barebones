@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_New upload_img-fluid</name>
+   <tag></tag>
+   <elementGuidId>e7581f5d-a071-402f-97c7-2ec387134578</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.image_upload.mb-0 > img.img-fluid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/form/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a03fff48-5985-4e7d-94a1-3876ce81f52f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid</value>
+      <webElementGuid>540377c9-e59c-4072-8035-8c799d8ebda6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEvSURBVHgB7ZZRasMwDEClyPkYbIF+FlrYbrKbLDdLchPvJHMhY5+D0I9CInvJOidm1K2hTfORPAiWkW0RWZIFZcWm//bNG/xRVk3q6sDhs+Js0DWZq/Od958IJmIyw4IgSu3kUB/erUxMEgjSU5s060KQkJ3ccLNzdb7zFrCLXjupuZYvqwfVyV/f5pmJX2EkRGu7T4c4jtN2UJ18NIoZjMQM02mTEIYsDF3n4xhLw9XN0NXlnvvfN0YX26dYwh0QoIeyiBFKuBPTubp1cG4npjY7GAlC+mDD+cWF5xqBWzDHdHLdGJl08ygKuILQa1l6rhF7JJQEmPeG1wledafhaLVOhviZsnKF4fZmLoaN2q58D0tX+7X6lRCVe0awYV//hQR5O8iTWyKd2/RcGoEfvyKv7+NOfe0AAAAASUVORK5CYII=</value>
+      <webElementGuid>e13c874e-d1fc-4309-bb6f-c0f7e479c812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;csvupload_page&quot;]/div[@class=&quot;upload_content&quot;]/div[@class=&quot;uploaddata&quot;]/form[@class=&quot;form-container upload_tag&quot;]/div[@class=&quot;fileupload_section&quot;]/div[@class=&quot;image_upload mb-0&quot;]/img[@class=&quot;img-fluid&quot;]</value>
+      <webElementGuid>74710626-4974-4a31-9480-bdbc82b24c5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/form/div/div/img</value>
+      <webElementGuid>e8d61648-b8db-4ce7-b314-e257dd53e374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEvSURBVHgB7ZZRasMwDEClyPkYbIF+FlrYbrKbLDdLchPvJHMhY5+D0I9CInvJOidm1K2hTfORPAiWkW0RWZIFZcWm//bNG/xRVk3q6sDhs+Js0DWZq/Od958IJmIyw4IgSu3kUB/erUxMEgjSU5s060KQkJ3ccLNzdb7zFrCLXjupuZYvqwfVyV/f5pmJX2EkRGu7T4c4jtN2UJ18NIoZjMQM02mTEIYsDF3n4xhLw9XN0NXlnvvfN0YX26dYwh0QoIeyiBFKuBPTubp1cG4npjY7GAlC+mDD+cWF5xqBWzDHdHLdGJl08ygKuILQa1l6rhF7JJQEmPeG1wledafhaLVOhviZsnKF4fZmLoaN2q58D0tX+7X6lRCVe0awYV//hQR5O8iTWyKd2/RcGoEfvyKv7+NOfe0AAAAASUVORK5CYII=')]</value>
+      <webElementGuid>481dedf6-6c70-4cfd-b22e-4a4f5be4736e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/img</value>
+      <webElementGuid>60eb8fec-b443-4cbc-8716-a860757ece94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEvSURBVHgB7ZZRasMwDEClyPkYbIF+FlrYbrKbLDdLchPvJHMhY5+D0I9CInvJOidm1K2hTfORPAiWkW0RWZIFZcWm//bNG/xRVk3q6sDhs+Js0DWZq/Od958IJmIyw4IgSu3kUB/erUxMEgjSU5s060KQkJ3ccLNzdb7zFrCLXjupuZYvqwfVyV/f5pmJX2EkRGu7T4c4jtN2UJ18NIoZjMQM02mTEIYsDF3n4xhLw9XN0NXlnvvfN0YX26dYwh0QoIeyiBFKuBPTubp1cG4npjY7GAlC+mDD+cWF5xqBWzDHdHLdGJl08ygKuILQa1l6rhF7JJQEmPeG1wledafhaLVOhviZsnKF4fZmLoaN2q58D0tX+7X6lRCVe0awYV//hQR5O8iTWyKd2/RcGoEfvyKv7+NOfe0AAAAASUVORK5CYII=']</value>
+      <webElementGuid>5c2a71e1-c179-4c44-aa95-e4ea66841e43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_399</name>
+   <tag></tag>
+   <elementGuidId>cf82c4c6-61cd-4510-a06b-957f55c17d24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/section/div[2]/div[2]/div/div/div/div/div/div[2]/table/tbody/tr[10]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>bf10ef6c-a911-4dd0-a15a-a54fe1e48c69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-table-cell ant-table-cell-row-hover</value>
+      <webElementGuid>62a11ff2-121c-480c-91fa-012b29082203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>399</value>
+      <webElementGuid>bcc118ff-c4a4-45ac-aa3b-95732ea35f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;bg-back&quot;]/section[@class=&quot;p-0&quot;]/div[@class=&quot;row pl-5 pr-4 m-0 summary-page-height&quot;]/div[@class=&quot;col-md-10 summarycsv-table brtr5 brtl5&quot;]/div[@class=&quot;ant-table-wrapper&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-ping-right ant-table-scroll-horizontal&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-body&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-row-hover&quot;]</value>
+      <webElementGuid>9100f710-542d-4531-93db-9627567b7af3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/section/div[2]/div[2]/div/div/div/div/div/div[2]/table/tbody/tr[10]/td[2]</value>
+      <webElementGuid>ed53b442-33bc-47fa-a5b8-261d426a555d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DIVISION EF'])[1]/following::td[119]</value>
+      <webElementGuid>fd6fba84-5b1d-4682-920c-060f2dc6e80b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[1]/following::td[119]</value>
+      <webElementGuid>14b442f6-7a82-4e90-90e0-f6a43dfd1352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows per page :'])[1]/preceding::td[1195]</value>
+      <webElementGuid>0c3bd6dc-2d6f-4a9d-8c1f-6169beda5023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::td[1195]</value>
+      <webElementGuid>80f88d22-2e91-4aaf-809a-f71aaf7a3c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='399']/parent::*</value>
+      <webElementGuid>ea9a0b49-a613-4980-aa12-1c42d96d6e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[2]</value>
+      <webElementGuid>eda4b5e6-6d17-4150-a9fc-d8e61d94dd7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '399' or . = '399')]</value>
+      <webElementGuid>0d736faf-fc45-4bf8-8aab-c91e121025b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

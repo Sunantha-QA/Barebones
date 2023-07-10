@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Email id</name>
+   <tag></tag>
+   <elementGuidId>cdab94fd-97f6-401d-8512-e879696b4f8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/section/div[2]/section/section/form/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ae19b2a0-8bed-4188-ac24-06d50095f025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>InputEmail1</value>
+      <webElementGuid>0e3b188d-e7ea-45a0-92eb-33f2567c46e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email id</value>
+      <webElementGuid>889935a9-caff-4b5a-8e9d-8427d335a62b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;bg-back&quot;]/section[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;rules-log container-fluid&quot;]/section[@class=&quot;row justify-content-center&quot;]/section[@class=&quot;col-12 col-sm-12 col-md-8 col-lg-4&quot;]/form[@class=&quot;form-container form-bg&quot;]/div[@class=&quot;form-group w-100&quot;]/label[1]</value>
+      <webElementGuid>94320b8e-bc3e-425d-8680-7a247513f125</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/section/div[2]/section/section/form/div/label</value>
+      <webElementGuid>7e34f1c6-1646-4fa6-8880-e8249e8e174b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RULES Platform'])[1]/following::label[1]</value>
+      <webElementGuid>5c382519-ec04-49bd-8623-6ebfc4d9d196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/preceding::label[1]</value>
+      <webElementGuid>afedd999-19d6-4f77-be2c-84a83d18d528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email id']/parent::*</value>
+      <webElementGuid>f066c3aa-78b4-49c9-bef6-7bd8900b9e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>ca088f1b-d8c4-4a70-a97f-4b540cf9224e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Email id' or . = 'Email id')]</value>
+      <webElementGuid>662f87b8-2e97-4b7b-8bde-4dcb2f391539</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UYD - Upload Empty dataset</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9edd5425-a57a-4c11-8575-0e82d580914d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>542a97d5-3ec4-4b5b-9e58-22e1f6ba760d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Empty</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2106e40e-b77a-4358-960a-06a081d97fd4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'/home/laptop-obs-156/Downloads/Empty dataset.csv'</defaultValue>
+      <description></description>
+      <id>2106e40e-b77a-4358-960a-06a081d97fd4</id>
+      <masked>false</masked>
+      <name>emptycsv</name>
+   </variable>
+</TestCaseEntity>

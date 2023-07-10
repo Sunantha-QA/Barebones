@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Test_data_2.csv_list-group-item bg-trans_ca5caa</name>
+   <tag></tag>
+   <elementGuidId>db394277-3143-4c4d-9a01-1df7e47cf472</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/section/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2c986903-1bf7-407f-b4ef-8c42d9f713ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item bg-transparent border-0 </value>
+      <webElementGuid>d81cd9d6-1919-41b0-b1a5-cc6d9f0bf55f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;csvupload_page&quot;]/div[@class=&quot;upload_content&quot;]/div[@class=&quot;uploaddata&quot;]/div[@class=&quot;radiobtn_select&quot;]/section[1]/ul[@class=&quot;list-group list-group-horizontal-md justify-content-between close-btn-on-hover-wrapper&quot;]/li[@class=&quot;list-group-item bg-transparent border-0&quot;]</value>
+      <webElementGuid>e20dda90-0685-4d53-8ec1-1e9e4271efe6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/section/ul/li</value>
+      <webElementGuid>e6f27c0c-73fd-4fd3-8ca9-c74cf463acd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test_data_2.csv'])[1]/following::li[1]</value>
+      <webElementGuid>870a8635-2635-4feb-914f-5f7b7510c142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New upload'])[1]/following::li[3]</value>
+      <webElementGuid>88279f8e-31e3-4597-bbfd-e99d145fc859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test_data_1.csv'])[1]/preceding::li[2]</value>
+      <webElementGuid>52ad3a4f-6e9c-467f-9ee4-6718820ce800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='survey_lung_cancer.csv'])[1]/preceding::li[5]</value>
+      <webElementGuid>1b5597b9-bef5-4272-9148-0ce108aed061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li</value>
+      <webElementGuid>edd7af1b-6701-4d31-bd2d-38f4198730de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

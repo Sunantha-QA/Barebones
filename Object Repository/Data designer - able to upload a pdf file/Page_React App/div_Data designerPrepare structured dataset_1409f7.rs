@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data designerPrepare structured dataset_1409f7</name>
+   <tag></tag>
+   <elementGuidId>6fa98709-a1b8-4d5f-988a-cb57272e695f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.radio-text-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/section/div/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb6b5e53-5a73-425b-b81e-3f0790f6b5e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio-text-container</value>
+      <webElementGuid>3f7b85cd-88bb-4117-87d1-6534e00f7823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data designerPrepare structured datasets from unstructured data sources.</value>
+      <webElementGuid>affa803a-03e8-476b-aa1d-70947f6cc2f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;bg-back&quot;]/section[@class=&quot;p-0&quot;]/div[@class=&quot;csvupload_page&quot;]/div[@class=&quot;mt-4 p-0 select-experiment-type mx-auto&quot;]/div[@class=&quot;h-55vh overflow-auto bg-grey-o&quot;]/div[@class=&quot;radio-text-container&quot;]</value>
+      <webElementGuid>c441f20b-5b88-4a9d-b7d1-6d0106677090</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/section/div/div[3]/div/div</value>
+      <webElementGuid>9f141196-7e7c-486f-af4a-eeb381b9121a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[1]/following::div[5]</value>
+      <webElementGuid>908e6cc2-4252-4e5a-90dd-788ac66c79d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perform prediction'])[1]/preceding::div[2]</value>
+      <webElementGuid>a346b214-31de-4382-a749-be6f8e5af027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>b6a90dbc-cc57-4b71-a6c1-6385d79788e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Data designerPrepare structured datasets from unstructured data sources.' or . = 'Data designerPrepare structured datasets from unstructured data sources.')]</value>
+      <webElementGuid>55f4e7aa-b34a-47c1-950c-a88fceb3f858</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

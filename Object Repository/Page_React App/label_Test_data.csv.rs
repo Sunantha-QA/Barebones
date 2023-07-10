@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Test_data.csv</name>
+   <tag></tag>
+   <elementGuidId>20c32d09-2fed-4306-bc8b-ad3d629fb662</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section:nth-of-type(7) > ul.list-group.list-group-horizontal-md.justify-content-between.close-btn-on-hover-wrapper > ul.list-group.list-group-horizontal-md.close-btn-on-hover > li.list-group-item.bg-transparent.px-0.border-0 > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/section[7]/ul/ul/li[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1190b409-214b-4a84-a133-d1e90ee4273a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>091bb85e-cc36-43fd-a078-05d04f658e28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test_data.csv</value>
+      <webElementGuid>5bae42dc-e783-4897-9639-c60568c2744c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;csvupload_page&quot;]/div[@class=&quot;upload_content&quot;]/div[@class=&quot;uploaddata&quot;]/div[@class=&quot;radiobtn_select&quot;]/section[7]/ul[@class=&quot;list-group list-group-horizontal-md justify-content-between close-btn-on-hover-wrapper&quot;]/ul[@class=&quot;list-group list-group-horizontal-md close-btn-on-hover&quot;]/li[@class=&quot;list-group-item bg-transparent px-0 border-0&quot;]/label[1]</value>
+      <webElementGuid>e3b4b3f3-5f70-4cdc-ad7c-6d4edaf80d7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/section[7]/ul/ul/li[2]/label</value>
+      <webElementGuid>bd95788c-746f-4603-8a60-01789049db4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Symptom-severity.csv'])[1]/following::label[1]</value>
+      <webElementGuid>61363b47-622f-446d-96fd-1d6545ab46ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='covid_19_data.csv'])[1]/following::label[2]</value>
+      <webElementGuid>2add206e-5e61-4934-8f7d-b3b65e283141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::label[1]</value>
+      <webElementGuid>b1e0f2f7-ca95-4c76-873e-85fb1b37a85c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proceed'])[1]/preceding::label[1]</value>
+      <webElementGuid>52b9eb3c-59c7-4a59-ad17-838e8a7ab849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test_data.csv']/parent::*</value>
+      <webElementGuid>240ef294-3acf-4b18-a614-dae2952b58d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[7]/ul/ul/li[2]/label</value>
+      <webElementGuid>e53d2b91-02ad-4398-bc45-e2fc5e48e38d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Test_data.csv' or . = 'Test_data.csv')]</value>
+      <webElementGuid>6dc93baa-07fb-4604-9838-27ba6bd679d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

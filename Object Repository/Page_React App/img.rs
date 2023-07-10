@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>b6f7bb1a-f4df-4446-95af-21a044d6af09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-10.summarycsv-graph.brtr5.brtl5.bg-gray-a.ml-4.mt-2.overflow-y-auto > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-tabs-0-panel-1']/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ecf4331e-8de0-4806-bb55-ff1f5a060a95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>blob:http://localhost:4200/99acfcb0-d488-4675-9e0c-8d327735f5b0</value>
+      <webElementGuid>c476a047-0773-45d7-bb47-87b72a07f653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-0-panel-1&quot;)/div[@class=&quot;row pl-3 pr-0 m-0 mb-4&quot;]/div[@class=&quot;col-md-10 summarycsv-graph  brtr5 brtl5 bg-gray-a ml-4 mt-2 overflow-y-auto&quot;]/img[1]</value>
+      <webElementGuid>cfa986f5-1dbe-4ffe-bc3c-b02e94894d89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-0-panel-1']/div/div[2]/img</value>
+      <webElementGuid>49f721c3-3d05-470d-a0e1-774762574b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'blob:http://localhost:4200/99acfcb0-d488-4675-9e0c-8d327735f5b0')]</value>
+      <webElementGuid>f9e638e8-8d18-4d12-a0d1-d0e746ce065b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>3831b104-97e3-4cfd-8c7f-8f8875966aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'blob:http://localhost:4200/99acfcb0-d488-4675-9e0c-8d327735f5b0']</value>
+      <webElementGuid>24899eee-eed1-48d7-a288-52c1a495cb09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

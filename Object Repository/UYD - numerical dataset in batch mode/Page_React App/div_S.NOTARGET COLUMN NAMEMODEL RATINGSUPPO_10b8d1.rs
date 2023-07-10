@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_S.NOTARGET COLUMN NAMEMODEL RATINGSUPPO_10b8d1</name>
+   <tag></tag>
+   <elementGuidId>63bb0901-8a26-4c9d-a629-c82ebc669951</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/section/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.summarycsv-table.show-result-table.brtr5.brtl5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>effb2cd1-4935-4990-8164-1ba09ce4410f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>summarycsv-table show-result-table brtr5 brtl5</value>
+      <webElementGuid>c78b7af4-45fd-4128-a72a-787640dd86dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S.NOTARGET COLUMN NAMEMODEL RATINGSUPPORTING VARIABLE COUNTGRAPHSACTIONS1xExceptional5View report2yExceptional5View report3add_xyExceptional5View report4aExceptional5View report5bExceptional5View report6subtraction_abExceptional5View report7cExceptional5View report8dExceptional5View report9multiply_cdExceptional5View report10eExceptional5View report1Rows per page :1012</value>
+      <webElementGuid>4adf10ea-a832-4981-b672-4238f40fac91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;bg-back&quot;]/section[@class=&quot;p-0&quot;]/div[@class=&quot;csvupload_page&quot;]/div[@class=&quot;summarycsv-table show-result-table brtr5 brtl5&quot;]</value>
+      <webElementGuid>b357f244-6a12-48a2-8141-7d28c231ef35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/section/div/div[3]</value>
+      <webElementGuid>2b8b7822-15b5-435b-bd22-1182ee4826bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select and export model'])[1]/following::div[1]</value>
+      <webElementGuid>499dfcfc-e805-440f-b939-153d1a568b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select &amp; view reports'])[1]/following::div[1]</value>
+      <webElementGuid>867a1b3e-ad7c-4adb-8f47-7dbc2c1047b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>c919b542-8868-42a8-b505-d6fc44f1837d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'S.NOTARGET COLUMN NAMEMODEL RATINGSUPPORTING VARIABLE COUNTGRAPHSACTIONS1xExceptional5View report2yExceptional5View report3add_xyExceptional5View report4aExceptional5View report5bExceptional5View report6subtraction_abExceptional5View report7cExceptional5View report8dExceptional5View report9multiply_cdExceptional5View report10eExceptional5View report1Rows per page :1012' or . = 'S.NOTARGET COLUMN NAMEMODEL RATINGSUPPORTING VARIABLE COUNTGRAPHSACTIONS1xExceptional5View report2yExceptional5View report3add_xyExceptional5View report4aExceptional5View report5bExceptional5View report6subtraction_abExceptional5View report7cExceptional5View report8dExceptional5View report9multiply_cdExceptional5View report10eExceptional5View report1Rows per page :1012')]</value>
+      <webElementGuid>ffa507d6-8f42-48e2-ba0b-949336085dc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

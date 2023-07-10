@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_2000</name>
+   <tag></tag>
+   <elementGuidId>fd49ff03-9eed-4a3a-8466-d075daa04d1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/section/div[2]/div/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>99a55d79-1342-4ac3-8152-d58adcbd6c49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-600 fs16</value>
+      <webElementGuid>daa96539-4d64-434f-b76c-3eb6192d0fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2000</value>
+      <webElementGuid>2fe08416-4280-4e6e-ae7e-5a4bcc1cd727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;bg-back&quot;]/section[@class=&quot;p-0&quot;]/div[@class=&quot;row pl-5 pr-4 m-0 summary-page-height&quot;]/div[@class=&quot;col-md-2 bg-gray-a br10 basic-detail-column&quot;]/div[@class=&quot;list-group pt-5&quot;]/div[@class=&quot;list-group-item list-group-item-action flex-column align-items-start  bg-transparent border-0 px-0&quot;]/div[@class=&quot;text-white&quot;]/p[@class=&quot;fw-600 fs16&quot;]</value>
+      <webElementGuid>ca225a54-e24a-4a4f-a2de-90852efd5f72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/section/div[2]/div/div/div/div[2]/p</value>
+      <webElementGuid>a30e22b6-45fb-42b3-84bd-7dcc7c8f7475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dataset records'])[1]/following::p[1]</value>
+      <webElementGuid>25351a57-2ec2-41c9-a1db-f4ab10d087e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dataset type'])[1]/following::p[2]</value>
+      <webElementGuid>53f07755-01d7-4e3e-b7bc-1c5b8bdddcb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dataset column details'])[1]/preceding::p[1]</value>
+      <webElementGuid>2c95f4d6-6d50-4c8c-b653-920d7104c4b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categorial'])[1]/preceding::p[1]</value>
+      <webElementGuid>47d9f815-6270-4ca2-b587-f90657d3c033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2000']/parent::*</value>
+      <webElementGuid>1782ab4b-8125-4528-bc39-ac94245440f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>0008f7b3-eb6d-4008-9900-dbc25a732a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '2000' or . = '2000')]</value>
+      <webElementGuid>8d684016-e79d-4c4c-9553-47409b360967</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

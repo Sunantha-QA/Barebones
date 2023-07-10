@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_X</name>
+   <tag></tag>
+   <elementGuidId>876ff56f-3f51-464a-b7da-088d017a0590</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > div.predictor-page.mt-4 > div.predictor-factor-section-select.p-4.mx-3 > div.row > div.col-md-12.pr-0.form-tag > span.ant-tag.ant-tag-checkable.mt-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/section/div/div[2]/div[2]/div[2]/div/div/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>45374afa-7bf4-4403-ac19-720f343a73f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-tag ant-tag-checkable mt-2</value>
+      <webElementGuid>6233118b-3d55-4687-b952-20b7b5e22167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>X</value>
+      <webElementGuid>c7174a01-b55d-4787-b570-6d1983af2c26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/section[@class=&quot;p-0&quot;]/div[@class=&quot;csvupload_page&quot;]/div[@class=&quot;row px-0 predictor-section&quot;]/div[@class=&quot;col-md-8 bg-gray-a ml-2 summarypredictor-type1 px-0&quot;]/div[2]/div[@class=&quot;predictor-page mt-4&quot;]/div[@class=&quot;predictor-factor-section-select p-4 mx-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 pr-0 form-tag&quot;]/span[@class=&quot;ant-tag ant-tag-checkable mt-2&quot;]</value>
+      <webElementGuid>bc7727b3-2b85-421c-a5a3-fda9ba4cfc6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/section/div/div[2]/div[2]/div[2]/div/div/div[2]/div/span</value>
+      <webElementGuid>bfab2698-b276-492a-849d-0685b04150eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select all'])[2]/following::span[1]</value>
+      <webElementGuid>11830bfb-3732-43ed-ae53-1c59f9d5d19f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Influencing factors'])[1]/following::span[1]</value>
+      <webElementGuid>c56207ad-3cc6-4acc-ac91-1745ce0a8dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Y'])[2]/preceding::span[1]</value>
+      <webElementGuid>fe75cfcd-40c1-44c6-8a79-434b86224dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD XY'])[2]/preceding::span[2]</value>
+      <webElementGuid>a7eafb05-ef71-4e18-ac9a-693601dc8b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/span</value>
+      <webElementGuid>e3d1a59d-1581-4359-8b28-d861f61958a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'X' or . = 'X')]</value>
+      <webElementGuid>352561a8-6da3-4aba-8514-1bddfe24258f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

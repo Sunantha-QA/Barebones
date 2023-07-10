@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_03570105140yx</name>
+   <tag></tag>
+   <elementGuidId>c2d8734f-4399-4f11-989f-a8f8f41f59c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.recharts-surface</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Principle feature summary graph'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>077e0795-d643-48e3-a3c1-dead45064e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>recharts-surface</value>
+      <webElementGuid>ef32659f-f7b5-417f-ae3b-2324cfd852ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1394</value>
+      <webElementGuid>12a7061b-6c44-472e-aad9-9622a933964c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>500</value>
+      <webElementGuid>05b3fb35-cc2e-4747-ba2d-b681d0fb3210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 1394 500</value>
+      <webElementGuid>0d20d1b5-a554-4c59-84a1-2fcccaa8dca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>version</name>
+      <type>Main</type>
+      <value>1.1</value>
+      <webElementGuid>d1b3680f-9db1-495a-af69-757527a08b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>03570105140yx</value>
+      <webElementGuid>c29c2e3b-4397-4e43-8cd0-18d3c195104f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-0-panel-0&quot;)/div[@class=&quot;row pl-3 pr-0 m-0 mb-4&quot;]/div[@class=&quot;col-md-10 summarycsv-graph  brtr5 brtl5 bg-gray-a ml-4 mt-2 overflow-y-auto&quot;]/div[@class=&quot;recharts-responsive-container&quot;]/div[@class=&quot;recharts-wrapper&quot;]/svg[@class=&quot;recharts-surface&quot;]</value>
+      <webElementGuid>8d4b41a9-ef89-4b2d-91c3-3b0724825495</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Principle feature summary graph'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>26ed1091-2143-40ce-91db-75e2b2e853dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Principle features'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>56c47551-c505-422b-a1b3-986b877ab968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = '03570105140yx' or . = '03570105140yx')]</value>
+      <webElementGuid>87d16182-8914-4062-bd45-9d5506764efa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

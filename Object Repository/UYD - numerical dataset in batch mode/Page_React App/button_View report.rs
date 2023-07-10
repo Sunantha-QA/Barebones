@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_View report</name>
+   <tag></tag>
+   <elementGuidId>37d2a5c7-0a73-47b6-9da8-5d705f989d7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/section/div/div[3]/div/div/div/div/div/div/table/tbody/tr/td[6]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-blue.btn-blue-noborder.fs15.fw-bold.px-4.ms-0.my-0.mr-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3817ee79-3989-4b60-8229-3d72581ea17b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>btntype</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>abf2aa0d-26e1-4e3a-b2b7-5f5da00e8ea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-blue btn-blue-noborder fs15 fw-bold px-4 ms-0 my-0 mr-4</value>
+      <webElementGuid>59b7dabc-cf63-4a4c-9ee0-9b92fba771d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View report</value>
+      <webElementGuid>afa4a828-777f-401b-bd60-125611c15104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;bg-back&quot;]/section[@class=&quot;p-0&quot;]/div[@class=&quot;csvupload_page&quot;]/div[@class=&quot;summarycsv-table show-result-table brtr5 brtl5&quot;]/div[@class=&quot;ant-table-wrapper&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-row-hover&quot;]/div[@class=&quot;ant-space ant-space-horizontal ant-space-align-center&quot;]/div[@class=&quot;ant-space-item&quot;]/button[@class=&quot;btn btn-blue btn-blue-noborder fs15 fw-bold px-4 ms-0 my-0 mr-4&quot;]</value>
+      <webElementGuid>5cc54fe0-9b24-47e7-9272-d558082903b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/section/div/div[3]/div/div/div/div/div/div/table/tbody/tr/td[6]/div/div/button</value>
+      <webElementGuid>2557090c-91fc-4b54-bba2-5250f98cfbab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exceptional'])[1]/following::button[1]</value>
+      <webElementGuid>4ae667fb-434d-49f2-8b33-adf10802a1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[1]/following::button[1]</value>
+      <webElementGuid>1b6c79fb-06a9-4173-8db5-efd422c89ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='y'])[1]/preceding::button[1]</value>
+      <webElementGuid>786a29ba-6174-4ee6-b978-ab74359ff184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exceptional'])[2]/preceding::button[1]</value>
+      <webElementGuid>f099247a-a4c5-4d72-82cc-48e4b8b54b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View report']/parent::*</value>
+      <webElementGuid>a968417e-0038-42c5-8624-17dfd759d0bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/div/button</value>
+      <webElementGuid>1aba3196-96f6-45a2-ae8a-f959e9933c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'View report' or . = 'View report')]</value>
+      <webElementGuid>ea2337cf-b115-49c0-af41-f499a5f87776</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

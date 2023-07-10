@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Upload dataset_img-fluid cursor-pointer</name>
+   <tag></tag>
+   <elementGuidId>a4f2f676-331d-4a09-a71b-044b42d9bd61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-fluid.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/section/div/header/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ea456422-4126-4b97-8d53-aa5b5d2f99d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid cursor-pointer</value>
+      <webElementGuid>09e2867e-5941-4f17-8b67-aacd7c31ddb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAARCAYAAACmYE5yAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAK8SURBVHgBzZZdctpADIClXchMZ9oCj0xJB25ATlByguYGuCdIc4LACUJPALkBN4CcIL4BnkImj+bnoRPAq0rmb3FsE3hCM/Z4vZb07VorCSFFhrNFTYG+BYIqAZUB0QUidxHMm5XCJy9OZ+BTPqPMb4VYZ518+FL00HRKnzOPSb5G06UDqOpsv8rD/NpXn339sX1hktOsMi2erSc5IILmZU437Hd/2akCfAgdxgoywNsvG+DVp3KQoTYbrMXrgGcCuvteyHRjgUPYDPXWK00XgrtSTrcs2PZhHXRLOXW1gTWaeuHfO6QWmOvLQrafOQhLMOZldTQo14CpEYCznUPyk2Gpr0F3DJoyGHQIV1AI5CbCEngKoLVal4ThzhdqJfYre7CjmXkeTQPaXpNgMPD/lW2Mkb90VvPL+gZ2T4evl0lwb+sI3MvEDPh9ezuemsG+L/MsDLae2LG/GfqLGqbsrLcw8+u4w/U6ox/FL/gUt7NI0PiW0813OgxZLKAXv7PoLgyyLxxH9RhU/uJmIS0l9wttHj4KK3IsbKhzAuzKKLq7AeWVpJO9uDwAK3IsrMhJsCu75R07coxL7jtT2OEkaNg6ChRnCSsUlIJWJXc+sIiwO7y8mcWv+CQxvD2ZBml8prBj+fPyqBDQgx1x9VjYkT+vRtPRIdi1zRv4ICyYYBumShK89b0jAMfAgta9rDb3x8BKCpUSHs3xSbClwsU2U2CYjLXq7QEhdonI44dqtMZHYWEXUh5fXd6CPBi4AbufsMJAipN9bhJ9xcCG38tNKgqXwgYcEDtmw6ZFs/PERuc9rAy5enbSmqo0WJGwcAiEwKQaAHLsAyaFQAfqCsk6AxFhm53oAeNmyYF1v5Dgy0uCDW3ag/Wu3bJWdTWpxsg96ZtRj2mnWvoLDqufBGa92+hqVF2piEk6p/r6D30ukWPIVIwDAAAAAElFTkSuQmCC</value>
+      <webElementGuid>e0e3db90-ebac-4e13-8a2d-be0b7c29e36b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;bg-back&quot;]/section[@class=&quot;p-0&quot;]/div[@class=&quot;csvupload_page&quot;]/header[1]/div[@class=&quot;row csvupload_header&quot;]/div[@class=&quot;col-md-1 m-auto text-center&quot;]/img[@class=&quot;img-fluid cursor-pointer&quot;]</value>
+      <webElementGuid>f0748fb0-7b01-4d4e-9602-a0b87a7c9f51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/section/div/header/div/div/img</value>
+      <webElementGuid>6b2bbb91-f859-490a-8969-bf945298f172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAARCAYAAACmYE5yAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAK8SURBVHgBzZZdctpADIClXchMZ9oCj0xJB25ATlByguYGuCdIc4LACUJPALkBN4CcIL4BnkImj+bnoRPAq0rmb3FsE3hCM/Z4vZb07VorCSFFhrNFTYG+BYIqAZUB0QUidxHMm5XCJy9OZ+BTPqPMb4VYZ518+FL00HRKnzOPSb5G06UDqOpsv8rD/NpXn339sX1hktOsMi2erSc5IILmZU437Hd/2akCfAgdxgoywNsvG+DVp3KQoTYbrMXrgGcCuvteyHRjgUPYDPXWK00XgrtSTrcs2PZhHXRLOXW1gTWaeuHfO6QWmOvLQrafOQhLMOZldTQo14CpEYCznUPyk2Gpr0F3DJoyGHQIV1AI5CbCEngKoLVal4ThzhdqJfYre7CjmXkeTQPaXpNgMPD/lW2Mkb90VvPL+gZ2T4evl0lwb+sI3MvEDPh9ezuemsG+L/MsDLae2LG/GfqLGqbsrLcw8+u4w/U6ox/FL/gUt7NI0PiW0813OgxZLKAXv7PoLgyyLxxH9RhU/uJmIS0l9wttHj4KK3IsbKhzAuzKKLq7AeWVpJO9uDwAK3IsrMhJsCu75R07coxL7jtT2OEkaNg6ChRnCSsUlIJWJXc+sIiwO7y8mcWv+CQxvD2ZBml8prBj+fPyqBDQgx1x9VjYkT+vRtPRIdi1zRv4ICyYYBumShK89b0jAMfAgta9rDb3x8BKCpUSHs3xSbClwsU2U2CYjLXq7QEhdonI44dqtMZHYWEXUh5fXd6CPBi4AbufsMJAipN9bhJ9xcCG38tNKgqXwgYcEDtmw6ZFs/PERuc9rAy5enbSmqo0WJGwcAiEwKQaAHLsAyaFQAfqCsk6AxFhm53oAeNmyYF1v5Dgy0uCDW3ag/Wu3bJWdTWpxsg96ZtRj2mnWvoLDqufBGa92+hqVF2piEk6p/r6D30ukWPIVIwDAAAAAElFTkSuQmCC')]</value>
+      <webElementGuid>7a783dca-e0dc-42b5-9530-7fceb2bdd0f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>4fef26cc-3784-44d1-8013-14f843bd8b2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAARCAYAAACmYE5yAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAK8SURBVHgBzZZdctpADIClXchMZ9oCj0xJB25ATlByguYGuCdIc4LACUJPALkBN4CcIL4BnkImj+bnoRPAq0rmb3FsE3hCM/Z4vZb07VorCSFFhrNFTYG+BYIqAZUB0QUidxHMm5XCJy9OZ+BTPqPMb4VYZ518+FL00HRKnzOPSb5G06UDqOpsv8rD/NpXn339sX1hktOsMi2erSc5IILmZU437Hd/2akCfAgdxgoywNsvG+DVp3KQoTYbrMXrgGcCuvteyHRjgUPYDPXWK00XgrtSTrcs2PZhHXRLOXW1gTWaeuHfO6QWmOvLQrafOQhLMOZldTQo14CpEYCznUPyk2Gpr0F3DJoyGHQIV1AI5CbCEngKoLVal4ThzhdqJfYre7CjmXkeTQPaXpNgMPD/lW2Mkb90VvPL+gZ2T4evl0lwb+sI3MvEDPh9ezuemsG+L/MsDLae2LG/GfqLGqbsrLcw8+u4w/U6ox/FL/gUt7NI0PiW0813OgxZLKAXv7PoLgyyLxxH9RhU/uJmIS0l9wttHj4KK3IsbKhzAuzKKLq7AeWVpJO9uDwAK3IsrMhJsCu75R07coxL7jtT2OEkaNg6ChRnCSsUlIJWJXc+sIiwO7y8mcWv+CQxvD2ZBml8prBj+fPyqBDQgx1x9VjYkT+vRtPRIdi1zRv4ICyYYBumShK89b0jAMfAgta9rDb3x8BKCpUSHs3xSbClwsU2U2CYjLXq7QEhdonI44dqtMZHYWEXUh5fXd6CPBi4AbufsMJAipN9bhJ9xcCG38tNKgqXwgYcEDtmw6ZFs/PERuc9rAy5enbSmqo0WJGwcAiEwKQaAHLsAyaFQAfqCsk6AxFhm53oAeNmyYF1v5Dgy0uCDW3ag/Wu3bJWdTWpxsg96ZtRj2mnWvoLDqufBGa92+hqVF2piEk6p/r6D30ukWPIVIwDAAAAAElFTkSuQmCC']</value>
+      <webElementGuid>1d7babb3-bee7-41c4-afcd-5c0ac7fda28b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

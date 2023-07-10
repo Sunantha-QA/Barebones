@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manual modeYou can run data relationshi_a77530</name>
+   <tag></tag>
+   <elementGuidId>0decb525-f338-449b-aca0-0e69affb06cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.custom-control.custom-radio</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/section/div/div[2]/div[2]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>905f2e12-e439-4ba9-a916-2cf04677c37e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control custom-radio</value>
+      <webElementGuid>ef2c169e-e368-44d4-8bc9-f9d44c06cbc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manual modeYou can run data relationship analysis on a column you choose.</value>
+      <webElementGuid>0fa0de9b-18d4-46a8-9ec9-d0615b3cf457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/section[@class=&quot;p-0&quot;]/div[@class=&quot;csvupload_page&quot;]/div[@class=&quot;row px-0 predictor-section&quot;]/div[@class=&quot;col-md-8 bg-gray-a ml-2 summarypredictor-type px-0&quot;]/div[@class=&quot;experiment-main&quot;]/div[@class=&quot;primary-predictorform&quot;]/div[@class=&quot;form-radio&quot;]/div[@class=&quot;custom-control custom-radio&quot;]</value>
+      <webElementGuid>c5890a68-2500-4aca-af6f-a271931c9fa8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/section/div/div[2]/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>e68eb891-ff4d-45c9-b271-66205fa3f933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select mode'])[2]/following::div[3]</value>
+      <webElementGuid>d62d4c61-6e09-41c5-bde2-3832d8ede318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm &amp; Run'])[1]/following::div[6]</value>
+      <webElementGuid>dde33bc0-814b-4814-848b-a04784b40624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch mode'])[1]/preceding::div[1]</value>
+      <webElementGuid>3f50fd86-1144-4b53-81c8-4f899fbb385a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div</value>
+      <webElementGuid>f283afdc-36a4-479b-aea1-124245f91f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Manual modeYou can run data relationship analysis on a column you choose.' or . = 'Manual modeYou can run data relationship analysis on a column you choose.')]</value>
+      <webElementGuid>8a596065-b0ff-48cc-a76d-641f5e1b2137</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

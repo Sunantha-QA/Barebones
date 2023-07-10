@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UYD - Dataset and column details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2bc2794-fb2b-4763-b4fa-1b084104a32c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d82f5e1-300a-4ba0-863a-164778b36780</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'/home/laptop-obs-156/Downloads/Test_data.csv'</defaultValue>
+      <description></description>
+      <id>7d82f5e1-300a-4ba0-863a-164778b36780</id>
+      <masked>false</masked>
+      <name>Numerical_dataset</name>
+   </variable>
+</TestCaseEntity>

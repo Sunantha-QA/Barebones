@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Perform predictionUse a trained model t_a88417</name>
+   <tag></tag>
+   <elementGuidId>2337ee84-dcbf-44ce-999a-58831dc68221</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/section/div/div[3]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef53bde3-8ca0-4d31-a283-9a9786316789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Perform predictionUse a trained model to make a prediction or estimate about the outcome of a particular input or set of inputs.</value>
+      <webElementGuid>76c134e1-aba4-4838-801c-6841e61f475e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;bg-back&quot;]/section[@class=&quot;p-0&quot;]/div[@class=&quot;csvupload_page&quot;]/div[@class=&quot;mt-4 p-0 select-experiment-type mx-auto&quot;]/div[@class=&quot;h-55vh overflow-auto bg-grey-o&quot;]/div[@class=&quot;radio-text-container&quot;]/div[1]</value>
+      <webElementGuid>f841259c-db8d-44d3-9a85-e8dc5f06b2f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/section/div/div[3]/div/div[2]/div</value>
+      <webElementGuid>943e937f-94ae-414c-b95e-c6b30ef3360e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data designer'])[1]/following::div[2]</value>
+      <webElementGuid>af84fa1a-d914-4260-a12d-2d4a11bca7d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instance segmentation'])[1]/preceding::div[1]</value>
+      <webElementGuid>fec79346-c4d6-4913-8af6-d3af4d5df81f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>a9dcc5c0-f214-4330-bc0d-a2c6cf818260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Perform predictionUse a trained model to make a prediction or estimate about the outcome of a particular input or set of inputs.' or . = 'Perform predictionUse a trained model to make a prediction or estimate about the outcome of a particular input or set of inputs.')]</value>
+      <webElementGuid>a0d6d2a8-9aa7-4964-9115-da2a39e775e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

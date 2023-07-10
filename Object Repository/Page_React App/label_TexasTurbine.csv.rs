@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_TexasTurbine.csv</name>
+   <tag></tag>
+   <elementGuidId>376dffeb-3c1a-4c32-87f4-139573f33f80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section:nth-of-type(3) > ul.list-group.list-group-horizontal-md.justify-content-between.close-btn-on-hover-wrapper > ul.list-group.list-group-horizontal-md.close-btn-on-hover > li.list-group-item.bg-transparent.px-0.border-0 > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/section[3]/ul/ul/li[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4f44270f-5062-4ec4-a0a5-555a9f76a4b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>30ebb138-17b1-4df2-8e32-cbadfbd5c8de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TexasTurbine.csv</value>
+      <webElementGuid>48639f62-a6f0-4cd0-aa0d-45ca4273c890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;csvupload_page&quot;]/div[@class=&quot;upload_content&quot;]/div[@class=&quot;uploaddata&quot;]/div[@class=&quot;radiobtn_select&quot;]/section[3]/ul[@class=&quot;list-group list-group-horizontal-md justify-content-between close-btn-on-hover-wrapper&quot;]/ul[@class=&quot;list-group list-group-horizontal-md close-btn-on-hover&quot;]/li[@class=&quot;list-group-item bg-transparent px-0 border-0&quot;]/label[1]</value>
+      <webElementGuid>d7082a44-0344-40dd-88e5-5700ab2ccaf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/div[2]/section[3]/ul/ul/li[2]/label</value>
+      <webElementGuid>962b13f0-e20a-407d-a70e-5c4a1c2eb6d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOAP_test_data_data_designed_8.csv'])[1]/following::label[1]</value>
+      <webElementGuid>2db886ec-1b23-4dfe-b1ed-3ee36d1fcca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOAP_test_data_data_designed_9.csv'])[1]/following::label[2]</value>
+      <webElementGuid>08f3079a-3687-4054-b518-98d215a4fac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='heart.csv'])[1]/preceding::label[1]</value>
+      <webElementGuid>ab35b69b-318e-443c-bc73-1d6a18a488a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SampleData.csv'])[1]/preceding::label[2]</value>
+      <webElementGuid>4cdae79f-12d4-41a6-bf7b-29bbdd868ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TexasTurbine.csv']/parent::*</value>
+      <webElementGuid>ffa2e183-6b56-47c5-8567-2ebb59b2e645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/ul/ul/li[2]/label</value>
+      <webElementGuid>ac42b74b-11f1-49e3-8789-a9b48cc846d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'TexasTurbine.csv' or . = 'TexasTurbine.csv')]</value>
+      <webElementGuid>e5117c39-f8b0-48cd-8e12-e58a2266bf5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

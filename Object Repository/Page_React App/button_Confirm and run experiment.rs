@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Confirm and run experiment</name>
+   <tag></tag>
+   <elementGuidId>12db25df-5a32-47a3-94f1-af2956a48e66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-blue.fs15.fw-bold.px-4.ms-0.mt-3.mb-3.mr-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/section/div/div[2]/div[2]/div[2]/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>613e5ccd-8e6f-495a-8e5f-a4bc8838a8af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>btntype</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>1496e4d0-1ac8-43ca-bf4e-47bc49133d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-blue fs15 fw-bold px-4 ms-0 mt-3 mb-3 mr-4</value>
+      <webElementGuid>3c1b78ba-6e55-47d7-bfff-468d4c493cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm and run experiment</value>
+      <webElementGuid>b1e45d38-c754-4ac6-9769-988c227f2e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/section[@class=&quot;p-0&quot;]/div[@class=&quot;csvupload_page&quot;]/div[@class=&quot;row px-0 predictor-section&quot;]/div[@class=&quot;col-md-8 bg-gray-a ml-2 summarypredictor-type px-0&quot;]/div[@class=&quot;row bg-gray-a py-3 m-0 page-footer&quot;]/div[@class=&quot;col-md-12 text-right&quot;]/button[@class=&quot;btn btn-blue fs15 fw-bold px-4 ms-0 mt-3 mb-3 mr-4&quot;]</value>
+      <webElementGuid>296adbd6-3720-418e-ba49-506b783b3024</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/section/div/div[2]/div[2]/div[2]/div/button[3]</value>
+      <webElementGuid>66c72fdd-c258-4759-8665-f8cbd4d0782e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
+      <webElementGuid>d7db3ca1-1201-492f-93f6-a1d8d9cd9d2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::button[2]</value>
+      <webElementGuid>881d4334-4b68-48c5-93f2-e36768a95ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm and run experiment']/parent::*</value>
+      <webElementGuid>8be05bad-77f2-498e-9e27-7775f7761700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>5305552d-26f0-4d9f-8b10-e53f41c5c467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Confirm and run experiment' or . = 'Confirm and run experiment')]</value>
+      <webElementGuid>b5b87965-16b5-4114-b459-5fc2119460c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

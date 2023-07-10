@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Single datasetSingle dataset will be used here</name>
+   <tag></tag>
+   <elementGuidId>0c8fbd0f-79fa-485a-94a8-5ab0b8d993df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.list-group.list-group-horizontal-md.mb-2.no-border-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>ce5c9cae-2c3e-4928-b37c-a02821fe6a8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group list-group-horizontal-md mb-2 no-border-color</value>
+      <webElementGuid>c1091b43-c211-4f06-97cb-c4500e26b3b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Single datasetSingle dataset will be used here</value>
+      <webElementGuid>47f8536e-012f-4e85-8ec9-005c1575e3f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;csvupload_page&quot;]/div[@class=&quot;upload_content upload-dataset&quot;]/div[@class=&quot;uploaddata p-4&quot;]/ul[@class=&quot;list-group list-group-horizontal-md mb-2 no-border-color&quot;]</value>
+      <webElementGuid>d92f044d-579f-4f7d-9e73-a7806be427c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/ul</value>
+      <webElementGuid>f64d308d-3869-488a-910a-f5be05819e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you want to upload single or multiple dataset?'])[1]/following::ul[1]</value>
+      <webElementGuid>9ddaef73-a20e-495b-94e5-45eb69d91e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload dataset module'])[1]/following::ul[1]</value>
+      <webElementGuid>0d407717-4aa4-4f6b-a409-b194f46c4bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multiple dataset'])[1]/preceding::ul[1]</value>
+      <webElementGuid>f5cc03a5-c467-49a5-a22b-796ea85c6160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul</value>
+      <webElementGuid>84439ab1-f05d-4190-8756-7a059dc6bfc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = ' Single datasetSingle dataset will be used here' or . = ' Single datasetSingle dataset will be used here')]</value>
+      <webElementGuid>d0ef2d9f-c7b1-402f-9314-15c4b807fbd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

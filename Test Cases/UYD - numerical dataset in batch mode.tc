@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UYD - numerical dataset in batch mode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b28b8e8c-c7d3-4ab3-b027-6cc4dc0f7d16</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a8cfc3a3-766f-4c10-b13d-875a567dd6a6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'/home/laptop-obs-156/Downloads/Test_data.csv'</defaultValue>
+      <description></description>
+      <id>a8cfc3a3-766f-4c10-b13d-875a567dd6a6</id>
+      <masked>false</masked>
+      <name>numericaldataset</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Upload dataset_img-fluid cursor-pointer</name>
+   <tag></tag>
+   <elementGuidId>cded9d2c-eb78-405c-8714-5cb06cacae37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-fluid.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@class=&quot;img-fluid cursor-pointer ml-4&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>14602df8-d930-42d2-bca7-f3c214f1e096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid cursor-pointer</value>
+      <webElementGuid>f435d3ec-7a93-4195-b664-968f523369db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAARCAYAAACmYE5yAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAK8SURBVHgBzZZdctpADIClXchMZ9oCj0xJB25ATlByguYGuCdIc4LACUJPALkBN4CcIL4BnkImj+bnoRPAq0rmb3FsE3hCM/Z4vZb07VorCSFFhrNFTYG+BYIqAZUB0QUidxHMm5XCJy9OZ+BTPqPMb4VYZ518+FL00HRKnzOPSb5G06UDqOpsv8rD/NpXn339sX1hktOsMi2erSc5IILmZU437Hd/2akCfAgdxgoywNsvG+DVp3KQoTYbrMXrgGcCuvteyHRjgUPYDPXWK00XgrtSTrcs2PZhHXRLOXW1gTWaeuHfO6QWmOvLQrafOQhLMOZldTQo14CpEYCznUPyk2Gpr0F3DJoyGHQIV1AI5CbCEngKoLVal4ThzhdqJfYre7CjmXkeTQPaXpNgMPD/lW2Mkb90VvPL+gZ2T4evl0lwb+sI3MvEDPh9ezuemsG+L/MsDLae2LG/GfqLGqbsrLcw8+u4w/U6ox/FL/gUt7NI0PiW0813OgxZLKAXv7PoLgyyLxxH9RhU/uJmIS0l9wttHj4KK3IsbKhzAuzKKLq7AeWVpJO9uDwAK3IsrMhJsCu75R07coxL7jtT2OEkaNg6ChRnCSsUlIJWJXc+sIiwO7y8mcWv+CQxvD2ZBml8prBj+fPyqBDQgx1x9VjYkT+vRtPRIdi1zRv4ICyYYBumShK89b0jAMfAgta9rDb3x8BKCpUSHs3xSbClwsU2U2CYjLXq7QEhdonI44dqtMZHYWEXUh5fXd6CPBi4AbufsMJAipN9bhJ9xcCG38tNKgqXwgYcEDtmw6ZFs/PERuc9rAy5enbSmqo0WJGwcAiEwKQaAHLsAyaFQAfqCsk6AxFhm53oAeNmyYF1v5Dgy0uCDW3ag/Wu3bJWdTWpxsg96ZtRj2mnWvoLDqufBGa92+hqVF2piEk6p/r6D30ukWPIVIwDAAAAAElFTkSuQmCC</value>
+      <webElementGuid>0909c394-7b7f-4227-9011-a28a45c5c2ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;Datacontent&quot;]/div[@class=&quot;csvupload_page&quot;]/header[1]/div[@class=&quot;row csvupload_header&quot;]/div[@class=&quot;col-md-1 m-auto text-center&quot;]/img[@class=&quot;img-fluid cursor-pointer&quot;]</value>
+      <webElementGuid>c27d396f-6971-4395-a397-6924dde760d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/header/div/div/img</value>
+      <webElementGuid>93ff75e0-4148-4fbd-93a7-4a20674c57c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAARCAYAAACmYE5yAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAK8SURBVHgBzZZdctpADIClXchMZ9oCj0xJB25ATlByguYGuCdIc4LACUJPALkBN4CcIL4BnkImj+bnoRPAq0rmb3FsE3hCM/Z4vZb07VorCSFFhrNFTYG+BYIqAZUB0QUidxHMm5XCJy9OZ+BTPqPMb4VYZ518+FL00HRKnzOPSb5G06UDqOpsv8rD/NpXn339sX1hktOsMi2erSc5IILmZU437Hd/2akCfAgdxgoywNsvG+DVp3KQoTYbrMXrgGcCuvteyHRjgUPYDPXWK00XgrtSTrcs2PZhHXRLOXW1gTWaeuHfO6QWmOvLQrafOQhLMOZldTQo14CpEYCznUPyk2Gpr0F3DJoyGHQIV1AI5CbCEngKoLVal4ThzhdqJfYre7CjmXkeTQPaXpNgMPD/lW2Mkb90VvPL+gZ2T4evl0lwb+sI3MvEDPh9ezuemsG+L/MsDLae2LG/GfqLGqbsrLcw8+u4w/U6ox/FL/gUt7NI0PiW0813OgxZLKAXv7PoLgyyLxxH9RhU/uJmIS0l9wttHj4KK3IsbKhzAuzKKLq7AeWVpJO9uDwAK3IsrMhJsCu75R07coxL7jtT2OEkaNg6ChRnCSsUlIJWJXc+sIiwO7y8mcWv+CQxvD2ZBml8prBj+fPyqBDQgx1x9VjYkT+vRtPRIdi1zRv4ICyYYBumShK89b0jAMfAgta9rDb3x8BKCpUSHs3xSbClwsU2U2CYjLXq7QEhdonI44dqtMZHYWEXUh5fXd6CPBi4AbufsMJAipN9bhJ9xcCG38tNKgqXwgYcEDtmw6ZFs/PERuc9rAy5enbSmqo0WJGwcAiEwKQaAHLsAyaFQAfqCsk6AxFhm53oAeNmyYF1v5Dgy0uCDW3ag/Wu3bJWdTWpxsg96ZtRj2mnWvoLDqufBGa92+hqVF2piEk6p/r6D30ukWPIVIwDAAAAAElFTkSuQmCC')]</value>
+      <webElementGuid>1a683313-cb18-4ea7-b5bb-183564ebd3a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>d617459e-d899-4370-887e-073ecc82e075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAARCAYAAACmYE5yAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAK8SURBVHgBzZZdctpADIClXchMZ9oCj0xJB25ATlByguYGuCdIc4LACUJPALkBN4CcIL4BnkImj+bnoRPAq0rmb3FsE3hCM/Z4vZb07VorCSFFhrNFTYG+BYIqAZUB0QUidxHMm5XCJy9OZ+BTPqPMb4VYZ518+FL00HRKnzOPSb5G06UDqOpsv8rD/NpXn339sX1hktOsMi2erSc5IILmZU437Hd/2akCfAgdxgoywNsvG+DVp3KQoTYbrMXrgGcCuvteyHRjgUPYDPXWK00XgrtSTrcs2PZhHXRLOXW1gTWaeuHfO6QWmOvLQrafOQhLMOZldTQo14CpEYCznUPyk2Gpr0F3DJoyGHQIV1AI5CbCEngKoLVal4ThzhdqJfYre7CjmXkeTQPaXpNgMPD/lW2Mkb90VvPL+gZ2T4evl0lwb+sI3MvEDPh9ezuemsG+L/MsDLae2LG/GfqLGqbsrLcw8+u4w/U6ox/FL/gUt7NI0PiW0813OgxZLKAXv7PoLgyyLxxH9RhU/uJmIS0l9wttHj4KK3IsbKhzAuzKKLq7AeWVpJO9uDwAK3IsrMhJsCu75R07coxL7jtT2OEkaNg6ChRnCSsUlIJWJXc+sIiwO7y8mcWv+CQxvD2ZBml8prBj+fPyqBDQgx1x9VjYkT+vRtPRIdi1zRv4ICyYYBumShK89b0jAMfAgta9rDb3x8BKCpUSHs3xSbClwsU2U2CYjLXq7QEhdonI44dqtMZHYWEXUh5fXd6CPBi4AbufsMJAipN9bhJ9xcCG38tNKgqXwgYcEDtmw6ZFs/PERuc9rAy5enbSmqo0WJGwcAiEwKQaAHLsAyaFQAfqCsk6AxFhm53oAeNmyYF1v5Dgy0uCDW3ag/Wu3bJWdTWpxsg96ZtRj2mnWvoLDqufBGa92+hqVF2piEk6p/r6D30ukWPIVIwDAAAAAElFTkSuQmCC']</value>
+      <webElementGuid>34d151f4-f294-4587-8232-ad9a922392de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
